@@ -26,4 +26,6 @@
 | 20  | のっす | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Noss_Lotus) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCeZ-xcT9W4wHytkyQPxQ7Ig/featured) ||
 | 21  | パルフェ･ゴール | [<img src="src/images/twitter.png" width="20">](https://twitter.com/ParfateGoal) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/c/parfa_chan_nel) ||
 | 22  | 桜刃ねりあ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/sakurabaneria) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCkvPOriOgmrNumqUJPHmeNw/featured) ||
-|23   | タニ氏@魔王Vtuber | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Yuuuuukiiiii007) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UC6nnpimALqENilFeKlYQQ6Q/featured) ||
+| 23  | タニ氏@魔王Vtuber | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Yuuuuukiiiii007) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UC6nnpimALqENilFeKlYQQ6Q/featured) ||
+| 24  | 柴瀬ナオ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/ShibaseNao) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCcd3XiiPvJilB0ToQ9uQ5LA) ||
+| 25  | 未乃和まりん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/marin_ma_rin) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCd8sXL64mhsyrHrlucW_Dtg) ||
