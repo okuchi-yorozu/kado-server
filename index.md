@@ -1,4 +1,4 @@
-# Vtuber23人で遊んでいるマルチサーバー「KadoServer」です。
+# Vtuber25人で遊んでいるマルチサーバー「KadoServer」です。
 
 ### ◆配信タグ #角鯖
 
