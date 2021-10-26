@@ -5,7 +5,7 @@
 | Name | Links | Role |
 | ---- | ---- | ---- |
 | 角酒あや | [<img src="src/images/twitter.png" width="20">](https://twitter.com/kadosaka_aya) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/c/AyaKadosaka) [<img src="src/images/twitch.png" width="20">](https://www.twitch.tv/aya_kadosaka) | 主催 |
-| 語部りん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/marin_ma_rin) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/rinkataribe) | サーバー管理者 |
+| 語部りん | [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/rinkataribe) | サーバー管理者 |
 | 花沢ねこ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/instant_cat_v) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCHO79vvBr6B_nC0KKduyDSw) | ワールド管理者 GM |
 | 草蔦みかん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/lotten_mikan) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCBzbWsb8KYT1LTOoeDSGTBA) ||
 | 綾瀬綾 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/ayaseaya_vtuber) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/c/ayaseaya) ||
