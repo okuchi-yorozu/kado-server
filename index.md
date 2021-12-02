@@ -41,4 +41,3 @@
 | さをとめ乱米 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/SawotomeRanmai) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/c/RanmaiTheater) ||
 | お料理お姉さん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/cooking_onesan) [<img src="src/images/youtube.png" width="20">](https://youtube.com/channel/UCaX1ogokiZ5Db8wmzVCY0bA) ||
 | 壱衣ちよ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/ichi_chiyo) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCxHPJZZ97UeosD81ue6XrxA) ||
-36
