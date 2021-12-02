@@ -1,4 +1,4 @@
-# Vtuber32人で遊んでいるマルチサーバー「KadoServer」です。
+# Vtuber36人で遊んでいるマルチサーバー「KadoServer」です。
 
 ### ◆配信タグ #角鯖
 
@@ -36,3 +36,9 @@
 | 魔女 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/egoeries) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCwjy-ylLcUYuPTjGio2sluA) ||
 | なっさん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/nattann1019) [<img src="src/images/youtube.png" width="20">](https://t.co/x0ZIjgc2j2?amp=1) ||
 | vesper | [<img src="src/images/twitter.png" width="20">](https://twitter.com/vesper) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCj38lw-viOzONagmimb1vWA) ||
+| てじり | [<img src="src/images/twitter.png" width="20">](https://twitter.com/teji2713) [<img src="src/images/youtube.png" width="20">](https://t.co/LhugxLf8Lq?amp=1) ||
+| 金獅子のルー | [<img src="src/images/twitter.png" width="20">](https://twitter.com/KinLoo_V) [<img src="src/images/youtube.png" width="20">](https://t.co/1chDsiUS6z?amp=1) ||
+| さをとめ乱米 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/SawotomeRanmai) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/c/RanmaiTheater) ||
+| お料理お姉さん | [<img src="src/images/twitter.png" width="20">](https://twitter.com/cooking_onesan) [<img src="src/images/youtube.png" width="20">](https://youtube.com/channel/UCaX1ogokiZ5Db8wmzVCY0bA) ||
+| 壱衣ちよ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/ichi_chiyo) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCxHPJZZ97UeosD81ue6XrxA) ||
+36
