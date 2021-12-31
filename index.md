@@ -1,4 +1,4 @@
-# Vtuber36人で遊んでいるマルチサーバー「KadoServer」です。
+# Vtuber41人で遊んでいるマルチサーバー「KadoServer」です。
 
 ### ◆配信タグ #角鯖
 
@@ -43,5 +43,5 @@
 | 壱衣ちよ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/ichi_chiyo) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCxHPJZZ97UeosD81ue6XrxA) ||
 | 舞葉まゆら | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Maiha_Mayura) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCWfyD0vrPxFJZUxOJOSuPaQ) ||
 | 沖田苦無 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Okita_kunai) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCKrs30uYudqEX0ufw1-32Vw) ||
-| ユウキ・ルーンハート | [<img src="src/images/twitter.png" width="20">](https://twitter.com/YukiMamoru?lang=ja) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UC-f85Kdi-YuPZ2QuwweZVow) ||
+| ユウキ・ルーンハート | [<img src="src/images/twitter.png" width="20">](https://twitter.com/YukiMamoru) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UC-f85Kdi-YuPZ2QuwweZVow) ||
 | 村雨ミスト | [<img src="src/images/twitter.png" width="20">](https://twitter.com/kurou211) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCJtw3VsCchlNCQ7053WiM2w) ||
