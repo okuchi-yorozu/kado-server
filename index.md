@@ -1,4 +1,4 @@
-# Vtuber41人で遊んでいるマルチサーバー「KadoServer」です。
+# Vtuber46人で遊んでいるマルチサーバー「KadoServer」です。
 
 ### ◆配信タグ #角鯖
 
@@ -45,3 +45,8 @@
 | 沖田苦無 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Okita_kunai) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCKrs30uYudqEX0ufw1-32Vw) ||
 | ユウキ・ルーンハート | [<img src="src/images/twitter.png" width="20">](https://twitter.com/YukiMamoru) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UC-f85Kdi-YuPZ2QuwweZVow) ||
 | 村雨ミスト | [<img src="src/images/twitter.png" width="20">](https://twitter.com/kurou211) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCJtw3VsCchlNCQ7053WiM2w) ||
+| 下田屋 希 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/shimodaya_r) [<img src="src/images/youtube.png" width="20">](https://www.youtube.com/channel/UCSDet2Q6mvjH1eBkbNdsmAQ) ||
+| らでん白虎 | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Vtuber3radenn) [<img src="src/images/youtube.png" width="20">](https://t.co/TtcsOP6nbC) ||
+| 日夏なつお | [<img src="src/images/twitter.png" width="20">](https://twitter.com/he72oh) [<img src="src/images/youtube.png" width="20">](https://t.co/wSm6or7kPf) ||
+| しまのすいか | [<img src="src/images/twitter.png" width="20">](https://twitter.com/sima_sui) [<img src="src/images/youtube.png" width="20">](https://t.co/DEagrU2cIe) ||
+| 夜長ヨナ | [<img src="src/images/twitter.png" width="20">](https://twitter.com/Furano_yy) [<img src="src/images/youtube.png" width="20">](https://youtube.com/channel/UCIHYljLSySGSvYMP72UgsFg) ||
